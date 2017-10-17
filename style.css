@@ -1,0 +1,105 @@
+
+body {
+	height: 1900px;
+	background-color: #000;
+}
+
+
+.box {
+	height: 50px;
+	width: 100px;
+	padding: 10px;
+	border-width: 3px;
+	border-color: red;
+}
+
+.header {
+	z-index: 10;
+	position: fixed;
+	height: 73px;
+	width: 100%;
+	opacity: 0.95;
+	background-color: #FFFFFF;
+	box-shadow: 0 2px 14px 0 rgba(0,0,0,0.05);
+	padding:100px 100px 300px 100px;
+	
+}
+
+.logo {
+	height: 33px;
+	width: 172.22px;
+	 padding-top: 21px;
+	 padding-left:  322px;
+}
+
+.hero{
+	position:relative;
+	height: 750px;
+	width: 1919px;
+	color: #000000;
+	background-image: url(assets/Medacomtech logo vertical.svg);
+	background-image: url("assets/img_hero.png");
+	
+	 }
+
+.herotext {
+	position: absolute;
+    padding: 202px 862px 270px 866px;
+}
+
+
+h1{
+	margin: 6px 0 32px 0;
+    height: 50px;
+    width: 390px;
+    color: #FCC419;
+    font-family: "Roboto Condensed";
+    font-size: 123.4px;
+    font-weight: bold;
+    letter-spacing: 5px;
+    line-height: 89px;
+}
+
+h1 em {
+	margin: 0;
+	height: 216px;
+	width: 396px;
+	font-style: normal;
+	font-family: "Roboto Condensed";
+	font-size: 92.4px;
+	font-weight: bold;
+	letter-spacing: 3px;
+	line-height: 107px;
+}
+
+h4{
+	margin: 0;
+	height: 58px;
+	width: 390px;
+	color: #FFFFFF;
+	font-family: Roboto;
+	font-size: 20px;
+	font-weight: bold;
+	line-height: 29px;
+}
+
+p{
+	height: 22px;
+	width: 151px;
+	color: #4A4A4A;
+	font-family: Roboto;
+	font-size: 16px;
+	line-height: 22px;
+}
+.platforma{
+	padding-top : 120px;
+}
+.logoV{
+	padding-bottom: 150px;
+	position:absolute;
+}
+
+
+.Telefon{
+	position:absolute;
+}
